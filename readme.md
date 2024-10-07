@@ -17,8 +17,8 @@ This repository contains the Python script used in our research paper to measure
 1. **Clone the Repository**:
 
    ```bash
-   git clone <GitHub repository URL>
-   cd <repository directory>
+     git clone https://github.com/Simon-Oliver/dns-performance-11484.git
+     cd dns-performance-11484
    ```
 
 2. **Install Required Python Packages**:
